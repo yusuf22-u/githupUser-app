@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Space Mono", monospace;
+}
+.contecnt-wrapper {
+  margin: auto;
+}
+.main-content {
+  margin: auto;
+}
+.main-body {
+  width: 50%;
+  margin: auto;
+}
+.footer {
+  margin: auto;
+}
+.error {
+  z-index: 1;
+}
+.App,
+.input-search {
+  margin: auto;
+}
